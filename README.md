@@ -8,6 +8,7 @@ The model analyzes user input and predicts emotions such as happiness, sadness, 
 ## Live Demo: 
 
 🔗 https://emotion-detector-moodmate.streamlit.app/
+
 This Streamlit app allows users to enter text and detect emotions such as happiness, sadness, anger, or fear using a trained machine learning model.
 
 ## Technologies Used
